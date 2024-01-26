@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="first_name">Imię</string>
+    <string name="last_name">Nazwisko</string>
+    <string name="num_grades">Liczba ocen:</string>
+    <string name="enter_first_name">Podaj imię</string>
+    <string name="enter_last_name">Podaj nazwisko</string>
+    <string name="enter_num_grades">Podaj liczbę ocen (od 5 do 15)</string>
+    <string name="first_name_error">Pole imienia nie może być puste</string>
+    <string name="last_name_error">Pole nazwiska nie może być puste</string>
+    <string name="grades_field">pole liczby ocen</string>
+    <string name="error_empty_field">Pole %s nie może być puste</string>
+    <string name="error_invalid_grades">Liczba ocen musi być między 5 a 15</string>
+    <string name="submit_btn">Zatwierdź</string>
+    <string-array name="Przedmioty">
+        <item>Dyskretna matematyka</item>
+        <item>Matematyka dla informatyków</item>
+        <item>Sieci rozproszone</item>
+        <item>Systemy wbudowane</item>
+        <item>Język angielksi</item>
+        <item>Podstawy algorytmów</item>
+        <item>Fizyka</item>
+        <item>Metrologia</item>
+        <item>Elektrotechnika</item>
+        <item>Integracja systemów</item>
+        <item>Aplikacje na Android</item>
+        <item>Aplikacje na iOS</item>
+        <item>Wychowanie fizyczne</item>
+        <item>BD SQL i NoSQL</item>
+        <item>Inżynieria oprogramowania</item>
+    </string-array>
+</resources>
